@@ -5,8 +5,8 @@ using System.Net.Http;
 using System.Text;
 using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using zip_it_api;
-using zip_it_api.Controllers;
+using API;
+using API.Controllers;
 
 namespace zip_it_api.Tests.Controllers
 {

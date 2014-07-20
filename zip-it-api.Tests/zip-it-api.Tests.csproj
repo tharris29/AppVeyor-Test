@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{E1105047-6AC8-4503-B50E-B7ECDC1030EE}</ProjectGuid>
+    <ProjectGuid>{F6A9F0F3-5358-4C15-827D-5CAE64DB0CFD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>zip_it_api.Tests</RootNamespace>
@@ -102,9 +102,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\zip-it-api\zip-it-api.csproj">
-      <Project>{96881F75-9FA1-49BD-B8A4-46F38538E8A9}</Project>
-      <Name>zip-it-api</Name>
+    <ProjectReference Include="..\API\API.csproj">
+      <Project>{82446BFA-6D4C-4426-9A9C-0906951B2CC6}</Project>
+      <Name>API</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
