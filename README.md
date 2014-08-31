@@ -1,4 +1,4 @@
-zip-it-api
+AppVeyor automated build test project
 ==========
 
 API for zipping files
